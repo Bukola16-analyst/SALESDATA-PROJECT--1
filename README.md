@@ -2,6 +2,8 @@
 This Sales report is all about diving into the sales data to see how Accion company limited has been performing in the year 2014. As a data analyst, my goal is to break down the numbers in a way that helps the stakeholders understand what’s working well and where we might have room to improve.
 
 SALES PERFORMANCE ANALYSIS OF ACCION COMPANY LIMITED FOR YEAR 2014
+![Screenshot DASHBOARD 1 SALESDATA ANALYSIS NEW](https://github.com/user-attachments/assets/4d40b586-6af8-407e-bd12-5dce4074244d)
+
 
 Before now I use to imagine how possible it is to transform raw data into actionable insights that could benefit businesses, government, hospitals, organizations etc. looking at the raw dataset one will even be confuse because of how messy and bulky the data could be and this where a data analyst comes in
 
