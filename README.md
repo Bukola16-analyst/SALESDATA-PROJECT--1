@@ -2,14 +2,7 @@
 This Sales report is all about diving into the sales data to see how Accion company limited has been performing in the year 2014. As a data analyst, my goal is to break down the numbers in a way that helps the stakeholders understand what’s working well and where we might have room to improve.
 
 SALES PERFORMANCE ANALYSIS OF ACCION COMPANY LIMITED FOR YEAR 2014
-![Screenshot DASHBOARD 1 SALESDATA ANALYSIS NEW](https://github.com/user-attachments/assets/4d40b586-6af8-407e-bd12-5dce4074244d)
-
-
-Before now I use to imagine how possible it is to transform raw data into actionable insights that could benefit businesses, government, hospitals, organizations etc. looking at the raw dataset one will even be confuse because of how messy and bulky the data could be and this where a data analyst comes in
-
-Data analytics is termed as the process of extracting meaningful insights from raw data such as hidden patterns, market trends and customer preferences. This is done by studying and analyzing the procured data.
-
-As part of a prerequisite to graduate as a data analytics, I picked up a project on sales data of Accion company limited and I am excited to share this sales performance dashboard built completely in Microsoft excel 📊.
+![Screenshot DASHBOARD 1 SALESDATA ANALYSIS NEW](https://github.com/user-attachments/assets/4d40b586-6af8-407e-bd12-5dce4074244d
 
 This Sales report is all about diving into the sales data to see how Accion company limited has been performing in the year 2014. As a data analyst, my goal is to break down the numbers in a way that helps the stakeholders understand what’s working well and where we might have room to improve.
 I look at key sales metrics like total revenue, performance of each sales representative, customer behavior, product performance, and sales across different regions. By analyzing these areas, we can spot trends, highlight successes, and identify opportunities for making smarter, data-driven decisions to help in the growth and expansion of the company.
@@ -88,29 +81,9 @@ Performance Analysis of best sales product category
 Performance Analysis of transactions by Amount
 Best Performing Sales person base on Revenue generated for the company for the year 2014
 
-📌 This dashboard visualizes:
-•	Regional and category performance
-•	Monthly sales trends report
-•	Transaction sizes
-•	Top-performing customers of the year
-•	Top sales cities
-•	Best sales person of the year
-🔍 Tool Used for the analysis
- ✔ Microsoft Excel (PivotTables, Charts, Formulas)
- 
-Key Insights
-•	🥇 Nancy Freehafer is the Top Salesperson of the year with $104,242.34 in sales
-•	🌆 New York is the Top ship city with $67,180.50 in revenue
-•	🌎 New York led with 27% as the Top sales city by revenue
-•	💰 the product between 0–1000 stood out with 218 sums of count in sales shows the customer prefer to purchase a lesser product in amount.
-•	💰 For the Best Product Category: Beverages dominated with over $100K+ in sales
-•	🌎 The Northern region stood out with over $140K in sales
-•	📈 for monthly sales performance of the company: June and December saw significant peaks.
 
 Key Observations and Recommendations
-Observation:
- Nancy Freehafer was the top-performing sales representative, generating $104,242.34 in sales. On the other end, representatives like Mariya Sergienko ($42,370.88) and Laura Giussani ($41,095.01) recorded the lowest figures.
- 
+
 Recommendation:
 •	Underperforming sales person should be enrolled in targeted sales training programs to enhance their capabilities and improve overall team performance.
 •	Consider transferring Nancy Freehafer the best sales person to support sales development in lower-performing regions, leveraging her strengths to mentor and boost local performance thereby increasing the company revenue
